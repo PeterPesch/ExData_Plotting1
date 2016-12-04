@@ -9,7 +9,7 @@ This document consists of 3 parts:
 
 1. Contents of the repository - Describes the main folders of this repository.
 2. The scripts - Explains the scripts that created the 4 plots.
-3. References - External and internal references
+*  The original contents of the README.md by Roger Peng.
 
 ---
 
